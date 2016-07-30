@@ -1,2 +1,2 @@
 # Navigation-and-Communication
-navigation algorithm
+navigation and communication algorithms 
